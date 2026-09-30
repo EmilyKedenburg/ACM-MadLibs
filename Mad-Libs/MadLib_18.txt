@@ -1,0 +1,9 @@
+number: 
+adjective: 
+ingredient: 
+object: 
+verb: 
+liquid: 
+place: 
+plural noun: 
+sound: 

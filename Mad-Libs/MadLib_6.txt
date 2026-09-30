@@ -5,6 +5,6 @@ liquid:
 vegetable: 
 verb: 
 body part: 
-spice: 
+ingredient: 
 celebrity/person: 
 exclamation: 

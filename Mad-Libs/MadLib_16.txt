@@ -1,0 +1,9 @@
+number: 
+adjective: 
+programming language: 
+verb: 
+noun: 
+website/app: 
+plural noun: 
+emotion: 
+exclamation: 

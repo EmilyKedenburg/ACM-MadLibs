@@ -1,0 +1,10 @@
+number: 
+subject: 
+drink: 
+adjective: 
+verb ending in -ing: 
+place: 
+noun: 
+animal: 
+emotion: 
+exclamation: 

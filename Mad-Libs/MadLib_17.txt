@@ -1,0 +1,9 @@
+element of nature: 
+pokemon: 
+adjective: 
+object: 
+number: 
+food: 
+verb: 
+body part: 
+emotion: 

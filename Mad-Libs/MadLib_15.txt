@@ -1,0 +1,9 @@
+adjective: 
+number: 
+pasta type: 
+body part: 
+ingredient: 
+verb: 
+animal: 
+amount of money: 
+emotion: 

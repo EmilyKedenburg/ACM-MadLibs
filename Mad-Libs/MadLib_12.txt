@@ -1,0 +1,9 @@
+number: 
+adjective: 
+subject: 
+verb: 
+noun: 
+place: 
+food: 
+emotion: 
+plural noun: 
