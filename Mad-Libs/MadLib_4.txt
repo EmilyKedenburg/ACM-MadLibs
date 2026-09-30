@@ -1,9 +1,9 @@
-adjective: 
-noun: 
-body part: 
-spooky creature: 
-verb ending in -ing: 
-food: 
-number: 
-sound: 
-place: 
+adjective: smelly
+noun: chair
+body part: nostril
+spooky creature: black cat
+verb ending in -ing: murdering
+food: mustard sauce
+number: 1/4
+sound: (insert siren wails)
+place: Disneyland
