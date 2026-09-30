@@ -1,0 +1,8 @@
+number: 
+item: 
+adjective: 
+animal: 
+food: verb: 
+plural noun: 
+sound: 
+emotion: 
