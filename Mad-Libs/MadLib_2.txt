@@ -1,11 +1,11 @@
-number: 
-plural noun: 
-adjective: 
-minecraft mob: 
-noun: 
-verb: 
-food: 
-body part: 
-exclamation: 
-number: 
-material: 
+number: 27
+plural noun: Fish
+adjective: Black
+minecraft mob: Creeper
+noun: Chair
+verb: Flew
+food: Mac'a'roni and Cheese
+body part: Leg
+exclamation: Oh great Heavens!
+number: 1 Trillion
+material: Plywood
