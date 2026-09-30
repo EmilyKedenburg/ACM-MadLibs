@@ -1,9 +1,9 @@
-subject: 
-adjective: 
-number: 
-drink: 
-verb ending in -ing: 
-noun: 
-animal: 
-verb: 
-emotion: 
+subject: Computer Science
+adjective: Floating
+number: 73
+drink: Coca-Cola
+verb ending in -ing: Loving
+noun: Chriz
+animal: Cat
+verb: Baked
+emotion: Suprised
