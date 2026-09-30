@@ -1,0 +1,10 @@
+occasion: 
+number: 
+adjective: 
+ingredient: 
+liquid: 
+verb: 
+noun: 
+temperature: 
+animal: 
+emotion: 

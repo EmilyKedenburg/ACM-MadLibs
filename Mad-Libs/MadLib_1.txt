@@ -1,0 +1,10 @@
+adjective: 
+color: 
+room/place: 
+verb ending in -ing: 
+noun: 
+adjective: 
+body part: 
+number: 
+silly exclamation: 
+verb: 

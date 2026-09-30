@@ -1,0 +1,10 @@
+adjective: 
+pasta shape: 
+number: 
+liquid: 
+vegetable: 
+verb: 
+body part: 
+spice: 
+celebrity/person: 
+exclamation: 

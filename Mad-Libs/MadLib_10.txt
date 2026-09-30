@@ -1,0 +1,9 @@
+color: 
+task: 
+adjective: 
+verb: 
+room: 
+plural noun: 
+number: 
+exclamation: 
+body part: 

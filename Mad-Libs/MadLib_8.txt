@@ -1,0 +1,9 @@
+place: 
+adjective: 
+pokemon: 
+food: 
+verb ending in -ing: 
+number: 
+object: 
+pokemon: 
+emotion: 

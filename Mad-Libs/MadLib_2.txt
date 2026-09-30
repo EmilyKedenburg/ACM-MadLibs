@@ -1,0 +1,11 @@
+number: 
+plural noun: 
+adjective: 
+minecraft mob: 
+noun: 
+verb: 
+food: 
+body part: 
+exclamation: 
+number: 
+material: 

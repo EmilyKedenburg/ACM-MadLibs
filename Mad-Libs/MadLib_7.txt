@@ -1,0 +1,9 @@
+number: 
+programming language: 
+adjective: 
+noun: 
+verb: 
+animal: 
+emotion: 
+food: 
+exclamation: 

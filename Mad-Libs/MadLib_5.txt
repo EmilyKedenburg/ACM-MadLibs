@@ -1,0 +1,9 @@
+name: 
+occupation: 
+adjective: 
+noun: 
+verb: 
+number: 
+food: 
+place: 
+emotion: 
