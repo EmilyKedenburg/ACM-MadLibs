@@ -1,10 +1,10 @@
-adjective: 
-color: 
-room/place: 
-verb ending in -ing: 
-noun: 
-adjective: 
-body part: 
-number: 
-silly exclamation: 
-verb: 
+adjective: Kind
+color: Purple
+room/place: Bathroom
+verb ending in -ing: Dying
+noun: Kyle
+adjective: Handsome
+body part: bicep
+number: 67
+silly exclamation: Holy guacamole!
+verb: run
