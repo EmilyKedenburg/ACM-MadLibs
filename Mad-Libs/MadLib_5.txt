@@ -1,9 +1,9 @@
-name: 
-occupation: 
-adjective: 
-noun: 
-verb: 
-number: 
-food: 
-place: 
-emotion: 
+name: Bismarck
+occupation: Chancellor of Germany
+adjective: Purple
+noun: Dugtrio
+verb: Schlepping
+number: 67
+food: Burger King foot lettuce
+place: The Hague
+emotion: ANGER
