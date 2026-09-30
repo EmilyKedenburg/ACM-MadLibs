@@ -1,1 +1,99 @@
+--Windows PowerShell--
 
+Install Git:
+winget install --id Git.Git -e --source winget
+
+Configure Git (First-Time Setup):
+git config --global user.name "Your Name"
+git config --global user.email "your-email@example.com"
+
+Verify Configuration:
+git config --global --list
+
+
+-Clone a Repository- (either in Git Bash or PowerShell)
+
+Navigate to Where You Want the Repo:
+for example: cd Documents/GitHub
+
+If the Folder Doesn't Exist, Create it:
+mkdir -p Documents/GitHub
+cd Documents/GitHub
+
+Clone the Repo:
+git clone https://github.com/USERNAME/REPOSITORY.git
+
+MadLibs Repo: git clone https://github.com/EmilyKedenburg/ACM-MadLibs.git
+
+Navigate to Repo:
+example: cd ACM-MadLibs
+
+Verify Everything Worked:
+git status
+
+You should see something similar to:
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+
+-Creating a New Branch-
+
+Check Your Current Branch:
+git branch
+
+Example outpit:
+* master
+  emilyk
+  safecopy
+
+The * indicates which branch you're currently on.
+Important: Your new branch will be created based on whichever branch you're currently using.
+
+Create Your New Branch:
+git switch -c new-branch-name
+
+You should see:
+Switched to a new branch 'new-branch-name'
+
+This creates a new branch under the specified name and automatically switches you to that branch.
+
+Push the New Branch to GitHub:
+git push -u new-branch-name
+
+The -u sets the upstream tracking branch, meaning future pushes can simply use:
+git push
+
+
+-Pushing Changes-
+
+Stage Your Changes for Commit:
+git add .
+
+The . adds all new changes to be uploaded.
+
+Commit Your Changes with a Message:
+git commit -m "Your commit message"
+
+Push Your Changes:
+git push
+
+
+-Switching Branches-
+
+See All Local Branch:
+git branch
+
+See Local and Remote Branches"
+git branch -a
+
+Switch Back to Your Previous Branch:
+git switch -
+
+Switch Branch:
+git switch branch-name
+
+
+-Pulling Changes-
+git pull
