@@ -1,10 +1,10 @@
-adjective: 
-pasta shape: 
-number: 
-liquid: 
-vegetable: 
-verb: 
-body part: 
-ingredient: 
-celebrity/person: 
-exclamation: 
+adjective: burgundy
+pasta shape: peni
+number: 15
+liquid: oil
+vegetable: leak
+verb: gnashing
+body part: wenis
+ingredient: beans
+celebrity/person: james mason
+exclamation: yowzers
